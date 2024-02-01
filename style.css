@@ -1,11 +1,13 @@
 body {
-  background-image: linear-gradient(#3b1566, #5f4da8);
+  background-image: url("../aula 1 (do zero)/images/fundo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   height: 100vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  color: #d6d6ea;
+  color: #000000;
 }
 
 .container-aplicativo {
